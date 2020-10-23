@@ -42,17 +42,7 @@ var replaceAll = surveyAnswers.map(answer => answer[columnName]
     /*     .replace("FRONTENDDEVELOPER", frontendDev)
         .replace("FRONT-ENDDEVELOPER*", frontendDev)
        .replace("FRONTEND/WEBDEVELOPER", frontendDev) */
-    /* .toUpperCase() */
-    /* .replace("BRUIN", hexBrown) */
-    // Replace blue and lightblue for 1 hex
-   /*  .replace("BLAUW", hexBlue)
-    .replace("LICHT", "")
-    .replace("GROEN", hexGreen) */
-    // Replace RGB for hex
-    /* .replace("RGB", "")
-    .replace(".", ",")
-    .replace(rgbCode, (rgbToHex(139,69,19)))
-    .replace("", "#") */
+  
 );
 function spelling(input) {
     let frontGrammar = ["FRONTEND", "FRONTENDER", "FRONT-END"]
