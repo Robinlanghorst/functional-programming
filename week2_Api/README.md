@@ -1,6 +1,6 @@
 # Onderzoeksvraag
 
-Mijn hoofdonderzoeksvraag is: Hoeveel elektrische auto's parkeren dit moment in de binnenstad van Amsterdam en is de exponentiele groei van elektrische auto's en laadpalen in de binnenstad groot genoeg om in 2030 alle auto's te voorzien.
+Mijn hoofdonderzoeksvraag is: *Hoeveel elektrische auto's parkeren dit moment in de binnenstad van Amsterdam en is de exponentiele groei van elektrische auto's en laadpalen in de binnenstad groot genoeg om in 2030 alle auto's te voorzien.*
 
 ### Data
 
