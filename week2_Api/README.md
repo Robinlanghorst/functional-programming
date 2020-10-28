@@ -16,3 +16,8 @@ Dus wat heb ik nodig in het kort:
 ### interessante artikelen
 
 https://www.ad.nl/auto/hoe-haalbaar-is-de-amsterdamse-benzineban-in-2030-zes-vragen-br~a887ecdd/
+
+
+### Insights datasets
+
+- AreamanagerId van Amsterdam is 2459, zie https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEBIED/adw6-9hsg
