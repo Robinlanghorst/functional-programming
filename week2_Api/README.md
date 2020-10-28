@@ -8,7 +8,8 @@ De data die ik hiervoor nodig heb is: hoeveel elektrische auto's momenteel gepar
 
 Dus wat heb ik nodig in het kort:
 
-- Dataset van alle parkeerplekken/ garage's en capaciteit van Amsterdam
+- Hoeveelheid capaciteit in de binnenstad van Amsterdam
+- Dataset van alle parkeerplekken/ garage's van Amsterdam
 - Hoeveelheid laadpalen per parkeerplek/garage in Amsterdam
 - De gegevens die hierboven staan vinden van enkele jaren ervoor
 - De exponentiele groei berekenen van de afgelopen jaren en op die wijze de conclusie trekken of de groei groot genoeg is
