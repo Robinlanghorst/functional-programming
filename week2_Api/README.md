@@ -4,7 +4,7 @@ Mijn hoofdonderzoeksvraag is: Hoeveel elektrische auto's parkeren dit moment in 
 
 ### Data
 
-De data die ik hiervoor nodig heb is: hoeveel elektrische auto's momenteel geparkeerd zijn in de binnenstad. Hoeveel auto's in totaal kunnen parkeren in de binnenstad. Dit vergelijken met het jaar hiervoor. Wat is de groei en op die manier bekijken of genoeg mensen overstappen
+De data die ik hiervoor nodig heb is: hoeveel elektrische auto's momenteel geparkeerd zijn in de binnenstad. Hoeveel auto's er in totaal kunnen parkeren in de binnenstad. Dit vergelijken met jaren ervoor. Wat is de groei over de jaren om zo een exponentiele groei te concluderen en te berekenen of de binnenstad van Amsterdam daadwerkelijk elektrisch is van 2030
 
 Dus wat heb ik nodig in het kort:
 
