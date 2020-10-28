@@ -21,3 +21,5 @@ https://www.ad.nl/auto/hoe-haalbaar-is-de-amsterdamse-benzineban-in-2030-zes-vra
 ### Insights datasets
 
 - AreaID van Amsterdam is wellicht alles wat begint met de code 363 https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEBIED/adw6-9hsg
+- Gebieden dataset https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEOMETRIE-GEBIED/nsk3-v9n7
+- Link van Nathan https://dev.socrata.com/foundry/opendata.rdw.nl/nsk3-v9n7
